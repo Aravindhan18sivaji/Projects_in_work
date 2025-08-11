@@ -1,7 +1,7 @@
 1)Email Trigger using Agentic Architecture(poc)
-3)Chatbot using Agentic Architecture(poc)
-2)Multilingual Chatbot with RAG(poc)
-3)finetuned virtual tryon models (poc)
-4)e-commerce recommender system(poc)
-5)model design identification(poc)
-6)end-to-end voice call assistant
+2)Chatbot using Agentic Architecture(poc)
+3)Multilingual Chatbot with RAG(poc)
+4)finetuned virtual tryon models (poc)
+5)e-commerce recommender system(poc)
+6)model design identification(poc)
+7)end-to-end voice call assistant
